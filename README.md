@@ -16,6 +16,6 @@ This is a repo for the python course PUCP
 4. Volver al futuro
 
 # Actors
-1. Al Pacino
-2. Rober De Niro
-3. Denzel
+1. Sandra Bullock
+2. Julia Roberts
+3. 
