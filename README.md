@@ -9,15 +9,4 @@ This is a repo for the python course PUCP
 
 #commit es como una foto sirve para guardar y ver los cambios
 
-# movies
-1. Gladiador
-2. Spiderman
-3. Rey León
-4. Volver al futuro
-
-# Actors
-1. Sandra Bullock
-2. Julia Roberts
-3. Rober Pattirson
-4. Cameron Diaz
 
