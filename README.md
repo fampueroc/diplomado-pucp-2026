@@ -7,4 +7,4 @@ This is a repo for the python course PUCP
 3. Noelia Leon
 4. Valeria Murga
 
-#commit es como una foto 
+#commit es como una foto sirve para guardar y ver los cambios
