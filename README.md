@@ -21,3 +21,9 @@ This is a repo for the python course PUCP
 3. Rober Pattirson
 4. Cameron Diaz
 
+# Carreras
+1. Economia
+2. Antropologia
+3. Derecho
+4. Psicologia
+
