@@ -14,3 +14,8 @@ This is a repo for the python course PUCP
 2. Spiderman
 3. Rey León
 4. Volver al futuro
+
+# Actors
+1. Al Pacino
+2. Rober De Niro
+3. Denzel
