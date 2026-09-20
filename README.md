@@ -12,7 +12,7 @@ This is a repo for the python course PUCP
 # movies
 1. Gladiador
 2. Spiderman
-3. Rey León
+3. Rey Leon
 4. Volver al futuro
 
 # actors
@@ -29,3 +29,4 @@ This is a repo for the python course PUCP
 5. historia
 6. gestion
 7. RRII
+8. literatura
