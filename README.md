@@ -17,4 +17,7 @@ This is a repo for the python course PUCP
 
 # Actors
 1. Sandra Bullock
-2. jUlia Robers
+2. Julia Roberts
+3. Rober Pattirson
+4. Cameron Diaz
+
