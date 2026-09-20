@@ -14,3 +14,7 @@ This is a repo for the python course PUCP
 2. Spiderman
 3. Rey León
 4. Volver al futuro
+
+# Actors
+1. Sandra Bullock
+2. jUlia Robers
